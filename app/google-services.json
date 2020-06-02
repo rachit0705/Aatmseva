@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161947254226",
+    "firebase_url": "https://aatmseva-badeb.firebaseio.com",
+    "project_id": "aatmseva-badeb",
+    "storage_bucket": "aatmseva-badeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161947254226:android:f0549a8332895817041c0b",
+        "android_client_info": {
+          "package_name": "com.example.aatmseva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161947254226-92tb9k4oo90bf451d1qghutl27j0psip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aatmseva",
+            "certificate_hash": "ea3b2b9d2af3162128ee1437bcdbed332b2303bb"
+          }
+        },
+        {
+          "client_id": "161947254226-rho88ontv5uvrb5knf63hci2bo51v0lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-brgQpMNC7awsPp9fWfzofFaLge9B1Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161947254226-rho88ontv5uvrb5knf63hci2bo51v0lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
