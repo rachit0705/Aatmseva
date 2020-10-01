@@ -54,5 +54,5 @@ f.	Also User can talk to our Voice Enabled chatbot and ask for all the useful in
 
 IBM Cloud Services/Systems –
 
-Speech to text,  Watson Assistant, Text to speech
+Speech to text,  Watson Assistant, Text to speech , IBM Cloud Manager
 
